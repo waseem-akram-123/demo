@@ -1,4 +1,4 @@
 # demo
 this is my first git repository
 <br>
-author - waseem akram
+author - waseem (akram cs student)
